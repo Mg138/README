@@ -1,3 +1,3 @@
-# MOVING TO https://codeberg.org/madeline
+# Codeberg https://codeberg.org/madeline
 
-# Website: https://madeline.codeberg.page/
+# Website: https://mouse.lgbt/
